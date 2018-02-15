@@ -8,9 +8,6 @@ import android.os.Bundle;
 import android.telephony.SmsMessage;
 import android.widget.Toast;
 
-/**
- * Created by Bilal Rashid on 2/15/2018.
- */
 
 public class notificationReceiver extends BroadcastReceiver{
     Context context;
